@@ -17,7 +17,7 @@ with the ease of CLI`
 `Follow these steps to install and if python does not work use python3l`
 ```sh
 # Clone this project
-git clone https://github.com/devil-cyber
+https://github.com/devil-cyber/CloudTransport
 # After cloning go to the project directory & run
 python install setup.py
 # At last add a alias to .bashrc 
