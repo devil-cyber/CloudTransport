@@ -1,6 +1,8 @@
 # CloudTransport
 [![devil-cyber - CloudTransport](https://img.shields.io/static/v1?label=devil-cyber&message=CloudTransport&color=blue&logo=github)](https://github.com/devil-cyber/CloudTransport)
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 `Transfer or Download file from remote server with ease of CLI`
 ## Overview
 `CloudTransport a light weight python script that uses sftp transfer protocol to transfer files between the server 
@@ -9,7 +11,7 @@ with the ease of CLI`
 ## Problem and Goals
 - Currently it has been tesetd over ubuntu machine only
 - In future we will update its other os dependent script
-- Contribution is welcome 
+- Contribution is welcome and we need that
 
 ## How to install ?
 `Follow these steps to install and if python does not work use python3l`
