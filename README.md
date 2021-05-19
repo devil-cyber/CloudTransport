@@ -46,6 +46,7 @@ cloud
     * **Give port ie. (Your remote server port )**
     * **Give username ie. (This is username of your remote VM)**
 > Just like this:-
+
 ![config](https://github.com/devil-cyber/asset/raw/main/set_config1.png)
 ![config](https://github.com/devil-cyber/asset/raw/main/newc.png)
 #### To set configuration write following command in terminal
@@ -53,6 +54,7 @@ cloud
 cloud --set c
 ```
 > Output will look like:-
+
 ![config](https://github.com/devil-cyber/asset/raw/main/nec.png)
 
 ## Download
@@ -60,6 +62,7 @@ cloud --set c
 - #### Provide some details:-
     * **Enter server file or folder path  ie. (Give the path of folder or file that you wants to download from remote srver)**
 > Just like this:-
+
 ![download](https://github.com/devil-cyber/asset/raw/main/download1.png)
 ![download2](https://github.com/devil-cyber/asset/raw/main/download2.png)
 #### To start download write following code in terminal
@@ -80,6 +83,7 @@ eg. Local path : /home/path/exmaple.zip
     * **Enter local file or folder full path ie.(Enter the full path of the including your file path)**
     *  **Enter server file or folder full path ie. (Enter the path on which you wants to save uploaded file with same extension as in local computer**
 > Just like this:-
+
 ![download](https://github.com/devil-cyber/asset/raw/main/upload1.png)
 ![download2](https://github.com/devil-cyber/asset/raw/main/upload3.png)
 #### To start download write following code in terminal
